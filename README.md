@@ -8,12 +8,15 @@
 
 ## 文檔語系:
 - 英文 
+  - 基準
   - [https://docs.microsoft.com/en-us/aspnet/core/blazor/blazor-server-ef-core?view=aspnetcore-5.0](https://docs.microsoft.com/en-us/aspnet/core/blazor/blazor-server-ef-core?view=aspnetcore-5.0)
 
-- 中文繁體, 將上述網址的 en-us 換成 zh-tw
+- 中文繁體
+  - 將上述網址的 en-us 換成 zh-tw
   - [https://docs.microsoft.com/zh-tw/aspnet/core/blazor/blazor-server-ef-core?view=aspnetcore-5.0](https://docs.microsoft.com/zh-tw/aspnet/core/blazor/blazor-server-ef-core?view=aspnetcore-5.0)
 
-- 中文簡體, zh-cn
+- 中文簡體
+  - zh-cn
   - [https://docs.microsoft.com/zh-cn/aspnet/core/blazor/blazor-server-ef-core?view=aspnetcore-5.0](https://docs.microsoft.com/zh-cn/aspnet/core/blazor/blazor-server-ef-core?view=aspnetcore-5.0)
 
 
