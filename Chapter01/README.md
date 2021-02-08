@@ -5,5 +5,3 @@
 ## 要做的事:
 - Blazor Server 取代傳統的 [Web Forms](https://docs.microsoft.com/en-us/aspnet/web-forms/)
 - EF Core 取代傳統的 [EF 6](https://docs.microsoft.com/en-us/ef/ef6/get-started)
-
-## 請進入 [Chapter 1](Chapter01)
