@@ -1,4 +1,4 @@
-# 我們的起點是 Blazor Server EFCore
+# 起點是 Blazor Server EFCore
 官網截屏
 ![img/1.PNG](Chapter01/img/2021-02-08/1.PNG "Blazor Server EF Core ")
 
